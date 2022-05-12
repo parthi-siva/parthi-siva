@@ -22,4 +22,4 @@
 
  ![Parthi's GitHub stats](https://github-readme-stats.vercel.app/api?username=parthi-siva&hide=contribs,prs&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parthi-siva&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parthi-siva&layout=compact&theme=dracula&hide=HTML,CSS,JavaScript)
