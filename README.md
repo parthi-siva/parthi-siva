@@ -23,3 +23,17 @@
  ![Parthi's GitHub stats](https://github-readme-stats.vercel.app/api?username=parthi-siva&hide=contribs,prs&show_icons=true&theme=dracula)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parthi-siva&layout=compact&theme=dracula&hide=HTML,CSS,JavaScript,Makefile,Mako)
+
+
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=parthi-siva&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Parthi's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthi-siva&layout=compact&theme=buefy&hide_border=true&hide=HTML,CSS,JavaScript,Makefile,Mako" /></a> |
+| ------------- | ------------- |
+
+#### Top Repositories
+
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=parthi-siva&repo=pandas&theme=buefy" />
+</a>
+
+<br />
+<br />
