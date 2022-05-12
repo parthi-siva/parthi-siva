@@ -20,4 +20,4 @@
 - 🌱 I’m currently learning Go and Rust
 - 👨‍💻 Enjoy collaborating on `open source` projects.
 
- ![Parthi's GitHub stats](https://github-readme-stats.vercel.app/api?username=parthi-siva&hide=contribs,prs)
+ ![Parthi's GitHub stats](https://github-readme-stats.vercel.app/api?username=parthi-siva&hide=contribs,prs&show_icons=true&theme=radical)
