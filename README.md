@@ -12,11 +12,12 @@
 <br>
   
 <div align="center">
-<h3>💻 Python Developer | 🌏 Tamil Nadu, India </h3>
+<h3>💻 Self-taught Python Developer | 🌏 Tamil Nadu, India </h3>
 </div>
 
 ### About Me
   
+- 💼 Application developer at GeekTrust
 - 🌱 I’m currently learning Go and Rust
 - 👨‍💻 Enjoy collaborating on `open source` projects.
 
@@ -28,3 +29,5 @@
  ![Profile views](https://gpvc.arturio.dev/parthi-siva)  
 <br />
 <br />
+
+#### Top Repositories
